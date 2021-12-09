@@ -9662,6 +9662,23 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
+            -72.9247828658955,
+            41.5147652312574
+          ]
+        },
+        "properties": {
+          "EventID": "ORC300239489",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
             -73.6591548918013,
             40.9946337640963
           ]
@@ -18442,23 +18459,6 @@
           "EventID": "ORI1236721236",
           "CategoryName": "Incident",
           "IconFile": "incident.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 1
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -72.9247828658955,
-            41.5147652312574
-          ]
-        },
-        "properties": {
-          "EventID": "ORC300239489",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
           "isHighway": 1,
           "IsLatestEvent": 1
         }
