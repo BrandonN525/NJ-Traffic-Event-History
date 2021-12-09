@@ -1,4 +1,4 @@
-name: Scrape Latest NJ Accident Data
+name: Scrape Latest NJ Traffic Events Data
 
 on:
   push:
