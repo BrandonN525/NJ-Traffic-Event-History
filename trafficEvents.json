@@ -295,23 +295,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -74.077818216,
-            40.894005688
-          ]
-        },
-        "properties": {
-          "EventID": "ORI1236721237",
-          "CategoryName": "Congestion",
-          "IconFile": "congestion.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             -73.509968,
             41.118348
           ]
@@ -335,6 +318,23 @@
         },
         "properties": {
           "EventID": "ORI1236721234",
+          "CategoryName": "Congestion",
+          "IconFile": "congestion.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.2449608004269,
+            40.7085659978654
+          ]
+        },
+        "properties": {
+          "EventID": "ORI1236721249",
           "CategoryName": "Congestion",
           "IconFile": "congestion.svg",
           "isHighway": 1,
@@ -470,23 +470,6 @@
           ]
         },
         "properties": {
-          "EventID": "ORI1236721279",
-          "CategoryName": "Congestion",
-          "IconFile": "congestion.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -74.4261790145285,
-            40.8651988599982
-          ]
-        },
-        "properties": {
           "EventID": "ORI1236721278",
           "CategoryName": "Congestion",
           "IconFile": "congestion.svg",
@@ -567,12 +550,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -74.2976170593143,
-            40.4937581202974
+            -74.0106574874902,
+            40.7633297609771
           ]
         },
         "properties": {
-          "EventID": "ORI1236721286",
+          "EventID": "ORI1236721289",
           "CategoryName": "Congestion",
           "IconFile": "congestion.svg",
           "isHighway": 1,
@@ -590,23 +573,6 @@
         },
         "properties": {
           "EventID": "ORI1236721287",
-          "CategoryName": "Congestion",
-          "IconFile": "congestion.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -74.0106574874902,
-            40.7633297609771
-          ]
-        },
-        "properties": {
-          "EventID": "ORI1236721289",
           "CategoryName": "Congestion",
           "IconFile": "congestion.svg",
           "isHighway": 1,
@@ -686,6 +652,23 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
+            -73.66751,
+            41.078913
+          ]
+        },
+        "properties": {
+          "EventID": "ORI1236721323",
+          "CategoryName": "Congestion",
+          "IconFile": "congestion.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
             -74.0424537527154,
             40.7720926464067
           ]
@@ -720,6 +703,74 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
+            -74.1709615150182,
+            40.6777992642596
+          ]
+        },
+        "properties": {
+          "EventID": "ORI1236721321",
+          "CategoryName": "Congestion",
+          "IconFile": "congestion.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.4686299172414,
+            40.7918009931035
+          ]
+        },
+        "properties": {
+          "EventID": "ORI1236721325",
+          "CategoryName": "Congestion",
+          "IconFile": "congestion.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.2263832432432,
+            40.7674405405405
+          ]
+        },
+        "properties": {
+          "EventID": "ORI1236721326",
+          "CategoryName": "Congestion",
+          "IconFile": "congestion.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.0181769670471,
+            40.8655822486448
+          ]
+        },
+        "properties": {
+          "EventID": "ORI1236721329",
+          "CategoryName": "Congestion",
+          "IconFile": "congestion.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
             -73.9732646942139,
             40.7719293740321
           ]
@@ -743,23 +794,6 @@
         },
         "properties": {
           "EventID": "ORI1236720542",
-          "CategoryName": "Congestion",
-          "IconFile": "congestion.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -74.0677354307259,
-            40.7391035676551
-          ]
-        },
-        "properties": {
-          "EventID": "ORI1236720522",
           "CategoryName": "Congestion",
           "IconFile": "congestion.svg",
           "isHighway": 1,
@@ -958,29 +992,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -73.9765931134918,
-            40.6833580495388
+            -73.908634185791,
+            41.9360379941217
           ]
         },
         "properties": {
-          "EventID": "ORS400007881",
-          "CategoryName": "ScheduledSpecialEvent",
-          "IconFile": "sch-specialevent.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.9765931134918,
-            40.6833580495388
-          ]
-        },
-        "properties": {
-          "EventID": "ORS400007883",
+          "EventID": "ORS400007936",
           "CategoryName": "ScheduledSpecialEvent",
           "IconFile": "sch-specialevent.svg",
           "isHighway": 1,
@@ -1015,6 +1032,23 @@
         },
         "properties": {
           "EventID": "ORS400007403",
+          "CategoryName": "ScheduledSpecialEvent",
+          "IconFile": "sch-specialevent.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.726249,
+            40.711673
+          ]
+        },
+        "properties": {
+          "EventID": "ORS400007928",
           "CategoryName": "ScheduledSpecialEvent",
           "IconFile": "sch-specialevent.svg",
           "isHighway": 1,
@@ -1213,57 +1247,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -74.177076101696,
-            40.3929811131815
-          ]
-        },
-        "properties": {
-          "EventID": "ORS400006656",
-          "CategoryName": "ScheduledSpecialEvent",
-          "IconFile": "sch-specialevent.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -74.1711848974228,
-            40.7335901472838
-          ]
-        },
-        "properties": {
-          "EventID": "ORS400006660",
-          "CategoryName": "ScheduledSpecialEvent",
-          "IconFile": "sch-specialevent.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -74.1711848974228,
-            40.7335901472838
-          ]
-        },
-        "properties": {
-          "EventID": "ORS400006659",
-          "CategoryName": "ScheduledSpecialEvent",
-          "IconFile": "sch-specialevent.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             -73.726249,
             40.711673
           ]
@@ -1298,6 +1281,74 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
+            -74.1711848974228,
+            40.7335901472838
+          ]
+        },
+        "properties": {
+          "EventID": "ORS400006659",
+          "CategoryName": "ScheduledSpecialEvent",
+          "IconFile": "sch-specialevent.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.726249,
+            40.711673
+          ]
+        },
+        "properties": {
+          "EventID": "ORS400007922",
+          "CategoryName": "ScheduledSpecialEvent",
+          "IconFile": "sch-specialevent.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.1711848974228,
+            40.7335901472838
+          ]
+        },
+        "properties": {
+          "EventID": "ORS400006660",
+          "CategoryName": "ScheduledSpecialEvent",
+          "IconFile": "sch-specialevent.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.177076101696,
+            40.3929811131815
+          ]
+        },
+        "properties": {
+          "EventID": "ORS400006656",
+          "CategoryName": "ScheduledSpecialEvent",
+          "IconFile": "sch-specialevent.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
             -73.726249,
             40.711673
           ]
@@ -1321,6 +1372,23 @@
         },
         "properties": {
           "EventID": "ORS400007925",
+          "CategoryName": "ScheduledSpecialEvent",
+          "IconFile": "sch-specialevent.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.726249,
+            40.711673
+          ]
+        },
+        "properties": {
+          "EventID": "ORS400007926",
           "CategoryName": "ScheduledSpecialEvent",
           "IconFile": "sch-specialevent.svg",
           "isHighway": 1,
@@ -1372,40 +1440,6 @@
         },
         "properties": {
           "EventID": "ORS400007932",
-          "CategoryName": "ScheduledSpecialEvent",
-          "IconFile": "sch-specialevent.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.726249,
-            40.711673
-          ]
-        },
-        "properties": {
-          "EventID": "ORS400007926",
-          "CategoryName": "ScheduledSpecialEvent",
-          "IconFile": "sch-specialevent.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.726249,
-            40.711673
-          ]
-        },
-        "properties": {
-          "EventID": "ORS400007928",
           "CategoryName": "ScheduledSpecialEvent",
           "IconFile": "sch-specialevent.svg",
           "isHighway": 1,
@@ -1485,12 +1519,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -74.1671454906464,
-            40.7403314390507
+            -74.0019401907921,
+            40.7060155761017
           ]
         },
         "properties": {
-          "EventID": "ORS400007772",
+          "EventID": "ORS400007742",
           "CategoryName": "ScheduledSpecialEvent",
           "IconFile": "sch-specialevent.svg",
           "isHighway": 1,
@@ -1502,12 +1536,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -74.1671454906464,
-            40.7403314390507
+            -74.0019401907921,
+            40.7060155761017
           ]
         },
         "properties": {
-          "EventID": "ORS400007773",
+          "EventID": "ORS400007743",
           "CategoryName": "ScheduledSpecialEvent",
           "IconFile": "sch-specialevent.svg",
           "isHighway": 1,
@@ -1536,12 +1570,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -74.0019401907921,
-            40.7060155761017
+            -74.1671454906464,
+            40.7403314390507
           ]
         },
         "properties": {
-          "EventID": "ORS400007742",
+          "EventID": "ORS400007772",
           "CategoryName": "ScheduledSpecialEvent",
           "IconFile": "sch-specialevent.svg",
           "isHighway": 1,
@@ -1553,12 +1587,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -74.0019401907921,
-            40.7060155761017
+            -74.1671454906464,
+            40.7403314390507
           ]
         },
         "properties": {
-          "EventID": "ORS400007743",
+          "EventID": "ORS400007773",
           "CategoryName": "ScheduledSpecialEvent",
           "IconFile": "sch-specialevent.svg",
           "isHighway": 1,
@@ -2182,6 +2216,23 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
+            -73.9765931134918,
+            40.6833580495388
+          ]
+        },
+        "properties": {
+          "EventID": "ORS400007884",
+          "CategoryName": "ScheduledSpecialEvent",
+          "IconFile": "sch-specialevent.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
             -73.9921903610229,
             40.7500204681535
           ]
@@ -2204,7 +2255,7 @@
           ]
         },
         "properties": {
-          "EventID": "ORS400007884",
+          "EventID": "ORS400007881",
           "CategoryName": "ScheduledSpecialEvent",
           "IconFile": "sch-specialevent.svg",
           "isHighway": 1,
@@ -2216,29 +2267,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -73.908634185791,
-            41.9360379941217
+            -73.9765931134918,
+            40.6833580495388
           ]
         },
         "properties": {
-          "EventID": "ORS400007936",
-          "CategoryName": "ScheduledSpecialEvent",
-          "IconFile": "sch-specialevent.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.726249,
-            40.711673
-          ]
-        },
-        "properties": {
-          "EventID": "ORS400007908",
+          "EventID": "ORS400007883",
           "CategoryName": "ScheduledSpecialEvent",
           "IconFile": "sch-specialevent.svg",
           "isHighway": 1,
@@ -2255,7 +2289,7 @@
           ]
         },
         "properties": {
-          "EventID": "ORS400007909",
+          "EventID": "ORS400007917",
           "CategoryName": "ScheduledSpecialEvent",
           "IconFile": "sch-specialevent.svg",
           "isHighway": 1,
@@ -2289,7 +2323,7 @@
           ]
         },
         "properties": {
-          "EventID": "ORS400007917",
+          "EventID": "ORS400007909",
           "CategoryName": "ScheduledSpecialEvent",
           "IconFile": "sch-specialevent.svg",
           "isHighway": 1,
@@ -2476,7 +2510,7 @@
           ]
         },
         "properties": {
-          "EventID": "ORS400007922",
+          "EventID": "ORS400007908",
           "CategoryName": "ScheduledSpecialEvent",
           "IconFile": "sch-specialevent.svg",
           "isHighway": 1,
@@ -2544,126 +2578,7 @@
           ]
         },
         "properties": {
-          "EventID": "ORS400007897",
-          "CategoryName": "ScheduledSpecialEvent",
-          "IconFile": "sch-specialevent.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -74.1711848974228,
-            40.7335901472838
-          ]
-        },
-        "properties": {
-          "EventID": "ORS400007798",
-          "CategoryName": "ScheduledSpecialEvent",
-          "IconFile": "sch-specialevent.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.9765931134918,
-            40.6833580495388
-          ]
-        },
-        "properties": {
           "EventID": "ORS400007895",
-          "CategoryName": "ScheduledSpecialEvent",
-          "IconFile": "sch-specialevent.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.726249,
-            40.711673
-          ]
-        },
-        "properties": {
-          "EventID": "ORS400007902",
-          "CategoryName": "ScheduledSpecialEvent",
-          "IconFile": "sch-specialevent.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -74.1671454906464,
-            40.7403314390507
-          ]
-        },
-        "properties": {
-          "EventID": "ORS400006709",
-          "CategoryName": "ScheduledSpecialEvent",
-          "IconFile": "sch-specialevent.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.726249,
-            40.711673
-          ]
-        },
-        "properties": {
-          "EventID": "ORS400007894",
-          "CategoryName": "ScheduledSpecialEvent",
-          "IconFile": "sch-specialevent.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.726249,
-            40.711673
-          ]
-        },
-        "properties": {
-          "EventID": "ORS400007896",
-          "CategoryName": "ScheduledSpecialEvent",
-          "IconFile": "sch-specialevent.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.726249,
-            40.711673
-          ]
-        },
-        "properties": {
-          "EventID": "ORS400007899",
           "CategoryName": "ScheduledSpecialEvent",
           "IconFile": "sch-specialevent.svg",
           "isHighway": 1,
@@ -2726,6 +2641,74 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
+            -73.9765931134918,
+            40.6833580495388
+          ]
+        },
+        "properties": {
+          "EventID": "ORS400007897",
+          "CategoryName": "ScheduledSpecialEvent",
+          "IconFile": "sch-specialevent.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.1711848974228,
+            40.7335901472838
+          ]
+        },
+        "properties": {
+          "EventID": "ORS400007798",
+          "CategoryName": "ScheduledSpecialEvent",
+          "IconFile": "sch-specialevent.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.1671454906464,
+            40.7403314390507
+          ]
+        },
+        "properties": {
+          "EventID": "ORS400006709",
+          "CategoryName": "ScheduledSpecialEvent",
+          "IconFile": "sch-specialevent.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.726249,
+            40.711673
+          ]
+        },
+        "properties": {
+          "EventID": "ORS400007902",
+          "CategoryName": "ScheduledSpecialEvent",
+          "IconFile": "sch-specialevent.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
             -73.726249,
             40.711673
           ]
@@ -2766,6 +2749,74 @@
         },
         "properties": {
           "EventID": "ORS400007907",
+          "CategoryName": "ScheduledSpecialEvent",
+          "IconFile": "sch-specialevent.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.726249,
+            40.711673
+          ]
+        },
+        "properties": {
+          "EventID": "ORS400007894",
+          "CategoryName": "ScheduledSpecialEvent",
+          "IconFile": "sch-specialevent.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.726249,
+            40.711673
+          ]
+        },
+        "properties": {
+          "EventID": "ORS400007896",
+          "CategoryName": "ScheduledSpecialEvent",
+          "IconFile": "sch-specialevent.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.726249,
+            40.711673
+          ]
+        },
+        "properties": {
+          "EventID": "ORS400007899",
+          "CategoryName": "ScheduledSpecialEvent",
+          "IconFile": "sch-specialevent.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.9765931134918,
+            40.6833580495388
+          ]
+        },
+        "properties": {
+          "EventID": "ORS400007888",
           "CategoryName": "ScheduledSpecialEvent",
           "IconFile": "sch-specialevent.svg",
           "isHighway": 1,
@@ -2834,23 +2885,6 @@
         },
         "properties": {
           "EventID": "ORS400007887",
-          "CategoryName": "ScheduledSpecialEvent",
-          "IconFile": "sch-specialevent.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.9765931134918,
-            40.6833580495388
-          ]
-        },
-        "properties": {
-          "EventID": "ORS400007888",
           "CategoryName": "ScheduledSpecialEvent",
           "IconFile": "sch-specialevent.svg",
           "isHighway": 1,
@@ -2947,57 +2981,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -73.9921903610229,
-            40.7500204681535
-          ]
-        },
-        "properties": {
-          "EventID": "ORS400000691",
-          "CategoryName": "ScheduledSpecialEvent",
-          "IconFile": "sch-specialevent.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.9765931134918,
-            40.6833580495388
-          ]
-        },
-        "properties": {
-          "EventID": "ORS400007876",
-          "CategoryName": "ScheduledSpecialEvent",
-          "IconFile": "sch-specialevent.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.9765931134918,
-            40.6833580495388
-          ]
-        },
-        "properties": {
-          "EventID": "ORS400007877",
-          "CategoryName": "ScheduledSpecialEvent",
-          "IconFile": "sch-specialevent.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             -73.9765931134918,
             40.6833580495388
           ]
@@ -3021,6 +3004,23 @@
         },
         "properties": {
           "EventID": "ORS400007879",
+          "CategoryName": "ScheduledSpecialEvent",
+          "IconFile": "sch-specialevent.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.9765931134918,
+            40.6833580495388
+          ]
+        },
+        "properties": {
+          "EventID": "ORS400007880",
           "CategoryName": "ScheduledSpecialEvent",
           "IconFile": "sch-specialevent.svg",
           "isHighway": 1,
@@ -3100,12 +3100,46 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
+            -73.9921903610229,
+            40.7500204681535
+          ]
+        },
+        "properties": {
+          "EventID": "ORS400000691",
+          "CategoryName": "ScheduledSpecialEvent",
+          "IconFile": "sch-specialevent.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
             -73.9765931134918,
             40.6833580495388
           ]
         },
         "properties": {
-          "EventID": "ORS400007880",
+          "EventID": "ORS400007876",
+          "CategoryName": "ScheduledSpecialEvent",
+          "IconFile": "sch-specialevent.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.9765931134918,
+            40.6833580495388
+          ]
+        },
+        "properties": {
+          "EventID": "ORS400007877",
           "CategoryName": "ScheduledSpecialEvent",
           "IconFile": "sch-specialevent.svg",
           "isHighway": 1,
@@ -3123,6 +3157,57 @@
         },
         "properties": {
           "EventID": "ORS400007867",
+          "CategoryName": "ScheduledSpecialEvent",
+          "IconFile": "sch-specialevent.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.9921903610229,
+            40.7500204681535
+          ]
+        },
+        "properties": {
+          "EventID": "ORS400007865",
+          "CategoryName": "ScheduledSpecialEvent",
+          "IconFile": "sch-specialevent.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.9921903610229,
+            40.7500204681535
+          ]
+        },
+        "properties": {
+          "EventID": "ORS400007863",
+          "CategoryName": "ScheduledSpecialEvent",
+          "IconFile": "sch-specialevent.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.9921903610229,
+            40.7500204681535
+          ]
+        },
+        "properties": {
+          "EventID": "ORS400007864",
           "CategoryName": "ScheduledSpecialEvent",
           "IconFile": "sch-specialevent.svg",
           "isHighway": 1,
@@ -3207,74 +3292,6 @@
           ]
         },
         "properties": {
-          "EventID": "ORS400007863",
-          "CategoryName": "ScheduledSpecialEvent",
-          "IconFile": "sch-specialevent.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.9921903610229,
-            40.7500204681535
-          ]
-        },
-        "properties": {
-          "EventID": "ORS400007864",
-          "CategoryName": "ScheduledSpecialEvent",
-          "IconFile": "sch-specialevent.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.9921903610229,
-            40.7500204681535
-          ]
-        },
-        "properties": {
-          "EventID": "ORS400007865",
-          "CategoryName": "ScheduledSpecialEvent",
-          "IconFile": "sch-specialevent.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.9921903610229,
-            40.7500204681535
-          ]
-        },
-        "properties": {
-          "EventID": "ORS400007857",
-          "CategoryName": "ScheduledSpecialEvent",
-          "IconFile": "sch-specialevent.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.9921903610229,
-            40.7500204681535
-          ]
-        },
-        "properties": {
           "EventID": "ORS400007858",
           "CategoryName": "ScheduledSpecialEvent",
           "IconFile": "sch-specialevent.svg",
@@ -3326,7 +3343,7 @@
           ]
         },
         "properties": {
-          "EventID": "ORS400007851",
+          "EventID": "ORS400007852",
           "CategoryName": "ScheduledSpecialEvent",
           "IconFile": "sch-specialevent.svg",
           "isHighway": 1,
@@ -3343,7 +3360,41 @@
           ]
         },
         "properties": {
-          "EventID": "ORS400007852",
+          "EventID": "ORS400007850",
+          "CategoryName": "ScheduledSpecialEvent",
+          "IconFile": "sch-specialevent.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.9921903610229,
+            40.7500204681535
+          ]
+        },
+        "properties": {
+          "EventID": "ORS400007857",
+          "CategoryName": "ScheduledSpecialEvent",
+          "IconFile": "sch-specialevent.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.9921903610229,
+            40.7500204681535
+          ]
+        },
+        "properties": {
+          "EventID": "ORS400007848",
           "CategoryName": "ScheduledSpecialEvent",
           "IconFile": "sch-specialevent.svg",
           "isHighway": 1,
@@ -3428,24 +3479,7 @@
           ]
         },
         "properties": {
-          "EventID": "ORS400007848",
-          "CategoryName": "ScheduledSpecialEvent",
-          "IconFile": "sch-specialevent.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.9921903610229,
-            40.7500204681535
-          ]
-        },
-        "properties": {
-          "EventID": "ORS400007850",
+          "EventID": "ORS400007851",
           "CategoryName": "ScheduledSpecialEvent",
           "IconFile": "sch-specialevent.svg",
           "isHighway": 1,
@@ -8455,12 +8489,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -73.6635218259807,
-            41.0036337076644
+            -73.8618206220639,
+            40.8947293779361
           ]
         },
         "properties": {
-          "EventID": "ORC300239143",
+          "EventID": "ORC300239149",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -8472,12 +8506,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -73.6598373300523,
-            41.0128910564797
+            -72.7162796803227,
+            41.6723633440972
           ]
         },
         "properties": {
-          "EventID": "ORC300239142",
+          "EventID": "ORC300211908",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -8489,12 +8523,46 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -75.2904385235728,
-            39.7585741615384
+            -76.226234460702,
+            43.0797976964902
           ]
         },
         "properties": {
-          "EventID": "ORC300239161",
+          "EventID": "ORC300238448",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.7592097773923,
+            43.0881072046354
+          ]
+        },
+        "properties": {
+          "EventID": "ORC300238858",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -72.7072572769446,
+            41.688275403624
+          ]
+        },
+        "properties": {
+          "EventID": "ORC300211913",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -8659,12 +8727,46 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -74.8842041365176,
-            39.7599489439861
+            -75.2904385235728,
+            39.7585741615384
           ]
         },
         "properties": {
-          "EventID": "ORC300238443",
+          "EventID": "ORC300239161",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.6635218259807,
+            41.0036337076644
+          ]
+        },
+        "properties": {
+          "EventID": "ORC300239143",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.6598373300523,
+            41.0128910564797
+          ]
+        },
+        "properties": {
+          "EventID": "ORC300239142",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -8761,91 +8863,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -73.8618206220639,
-            40.8947293779361
-          ]
-        },
-        "properties": {
-          "EventID": "ORC300239149",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -72.7162796803227,
-            41.6723633440972
-          ]
-        },
-        "properties": {
-          "EventID": "ORC300211908",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -76.226234460702,
-            43.0797976964902
-          ]
-        },
-        "properties": {
-          "EventID": "ORC300238448",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -77.7592097773923,
-            43.0881072046354
-          ]
-        },
-        "properties": {
-          "EventID": "ORC300238858",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -72.7072572769446,
-            41.688275403624
-          ]
-        },
-        "properties": {
-          "EventID": "ORC300211913",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             -74.6384649740632,
             40.0218964885831
           ]
@@ -8863,80 +8880,29 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -73.9313356728622,
-            40.868681834716
-          ]
-        },
-        "properties": {
-          "EventID": "ORC300239480",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.8329117490089,
-            40.9979130694735
-          ]
-        },
-        "properties": {
-          "EventID": "ORC29072509",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.8049324020996,
-            41.4298604867856
-          ]
-        },
-        "properties": {
-          "EventID": "ORC29118309",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.8079663198364,
-            41.0991439695123
-          ]
-        },
-        "properties": {
-          "EventID": "ORC29445309",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             -78.7963921869129,
             42.8716760272854
           ]
         },
         "properties": {
           "EventID": "ORC300238859",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.9313356728622,
+            40.868681834716
+          ]
+        },
+        "properties": {
+          "EventID": "ORC300239480",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -8982,12 +8948,46 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -74.2854562978655,
-            40.5795556595823
+            -73.8049324020996,
+            41.4298604867856
           ]
         },
         "properties": {
-          "EventID": "ORC300239481",
+          "EventID": "ORC29118309",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.8079663198364,
+            41.0991439695123
+          ]
+        },
+        "properties": {
+          "EventID": "ORC29445309",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.8329117490089,
+            40.9979130694735
+          ]
+        },
+        "properties": {
+          "EventID": "ORC29072509",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -9005,6 +9005,23 @@
         },
         "properties": {
           "EventID": "ORC29118409",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.2854562978655,
+            40.5795556595823
+          ]
+        },
+        "properties": {
+          "EventID": "ORC300239481",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -9084,6 +9101,23 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
+            -73.8737233709879,
+            40.8297253818256
+          ]
+        },
+        "properties": {
+          "EventID": "ORC300238485",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
             -73.9041667670101,
             40.8203131780559
           ]
@@ -9135,12 +9169,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -72.6025946466139,
-            41.719009206443
+            -72.9021709215869,
+            41.2969634100137
           ]
         },
         "properties": {
-          "EventID": "ORC300191852",
+          "EventID": "ORC300239485",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -9152,46 +9186,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -73.8737233709879,
-            40.8297253818256
+            -73.9200138626338,
+            40.677967371614
           ]
         },
         "properties": {
-          "EventID": "ORC300238485",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.8812196546156,
-            40.8386567537961
-          ]
-        },
-        "properties": {
-          "EventID": "ORC300238487",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.8819943387082,
-            40.8391200322572
-          ]
-        },
-        "properties": {
-          "EventID": "ORC300238488",
+          "EventID": "ORC300238489",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -9237,12 +9237,29 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -73.9200138626338,
-            40.677967371614
+            -73.8812196546156,
+            40.8386567537961
           ]
         },
         "properties": {
-          "EventID": "ORC300238489",
+          "EventID": "ORC300238487",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.8819943387082,
+            40.8391200322572
+          ]
+        },
+        "properties": {
+          "EventID": "ORC300238488",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -9322,12 +9339,46 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -72.9021709215869,
-            41.2969634100137
+            -72.8909876963615,
+            41.5529305023824
           ]
         },
         "properties": {
-          "EventID": "ORC300239485",
+          "EventID": "ORC300239487",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -72.8909840218402,
+            41.5529632056226
+          ]
+        },
+        "properties": {
+          "EventID": "ORC300239488",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.9004043779857,
+            40.6637673639951
+          ]
+        },
+        "properties": {
+          "EventID": "ORC300238496",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -9509,114 +9560,46 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -72.8909876963615,
-            41.5529305023824
-          ]
-        },
-        "properties": {
-          "EventID": "ORC300239487",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -72.8909840218402,
-            41.5529632056226
-          ]
-        },
-        "properties": {
-          "EventID": "ORC300239488",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.9004043779857,
-            40.6637673639951
-          ]
-        },
-        "properties": {
-          "EventID": "ORC300238496",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.7430780437814,
-            40.6419941860709
-          ]
-        },
-        "properties": {
-          "EventID": "ORC300238506",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.7433007683002,
-            40.6407980792496
-          ]
-        },
-        "properties": {
-          "EventID": "ORC300238507",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.9251137800796,
-            40.7685788367984
-          ]
-        },
-        "properties": {
-          "EventID": "ORC300238508",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             -72.8904015315755,
             41.5584621316194
           ]
         },
         "properties": {
           "EventID": "ORC300239493",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.6591548918013,
+            40.9946337640963
+          ]
+        },
+        "properties": {
+          "EventID": "ORC300190258",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.2876257955641,
+            41.1391984570878
+          ]
+        },
+        "properties": {
+          "EventID": "ORC300190262",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -9679,12 +9662,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -73.6591548918013,
-            40.9946337640963
+            -73.7430780437814,
+            40.6419941860709
           ]
         },
         "properties": {
-          "EventID": "ORC300190258",
+          "EventID": "ORC300238506",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -9696,12 +9679,131 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -73.2876257955641,
-            41.1391984570878
+            -73.7433007683002,
+            40.6407980792496
           ]
         },
         "properties": {
-          "EventID": "ORC300190262",
+          "EventID": "ORC300238507",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.9251137800796,
+            40.7685788367984
+          ]
+        },
+        "properties": {
+          "EventID": "ORC300238508",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -72.4597856182647,
+            41.8990258132426
+          ]
+        },
+        "properties": {
+          "EventID": "ORC300239501",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -72.7843166646254,
+            41.6734534463623
+          ]
+        },
+        "properties": {
+          "EventID": "ORC300193993",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -72.7816564953927,
+            41.6729811698718
+          ]
+        },
+        "properties": {
+          "EventID": "ORC300193994",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -72.6025946466139,
+            41.719009206443
+          ]
+        },
+        "properties": {
+          "EventID": "ORC300191852",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -72.4544910902495,
+            41.9110450160025
+          ]
+        },
+        "properties": {
+          "EventID": "ORC300239499",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.3212961290337,
+            41.771832093359
+          ]
+        },
+        "properties": {
+          "EventID": "ORC29210109",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -9798,46 +9900,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -72.4544910902495,
-            41.9110450160025
+            -74.577027213331,
+            39.9048275681346
           ]
         },
         "properties": {
-          "EventID": "ORC300239499",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -74.3212961290337,
-            41.771832093359
-          ]
-        },
-        "properties": {
-          "EventID": "ORC29210109",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -72.6860892244786,
-            41.7009514661958
-          ]
-        },
-        "properties": {
-          "EventID": "ORC300239504",
+          "EventID": "ORC300239505",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -9866,12 +9934,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -72.4597856182647,
-            41.8990258132426
+            -73.8061981201172,
+            41.1081008911133
           ]
         },
         "properties": {
-          "EventID": "ORC300239501",
+          "EventID": "ORC29473909",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -9883,46 +9951,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -72.7843166646254,
-            41.6734534463623
+            -72.6860892244786,
+            41.7009514661958
           ]
         },
         "properties": {
-          "EventID": "ORC300193993",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -72.7816564953927,
-            41.6729811698718
-          ]
-        },
-        "properties": {
-          "EventID": "ORC300193994",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -74.577027213331,
-            39.9048275681346
-          ]
-        },
-        "properties": {
-          "EventID": "ORC300239505",
+          "EventID": "ORC300239504",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -9974,6 +10008,40 @@
         },
         "properties": {
           "EventID": "ORC300195656",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -72.8717786201186,
+            41.3920864137804
+          ]
+        },
+        "properties": {
+          "EventID": "ORC300195655",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -72.8829816331199,
+            41.3239405535224
+          ]
+        },
+        "properties": {
+          "EventID": "ORC300195650",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -10042,40 +10110,6 @@
         },
         "properties": {
           "EventID": "ORC300238524",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -74.0681869979201,
-            40.7391588980441
-          ]
-        },
-        "properties": {
-          "EventID": "ORC300238521",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -74.4234924316406,
-            41.4151573181152
-          ]
-        },
-        "properties": {
-          "EventID": "ORC29466509",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -10189,23 +10223,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -74.6836776733398,
-            41.3542709350586
-          ]
-        },
-        "properties": {
-          "EventID": "ORC29466409",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             -73.8366728115775,
             40.9352418871202
           ]
@@ -10223,12 +10240,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -72.8717786201186,
-            41.3920864137804
+            -74.0681869979201,
+            40.7391588980441
           ]
         },
         "properties": {
-          "EventID": "ORC300195655",
+          "EventID": "ORC300238521",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -10240,12 +10257,29 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -72.8829816331199,
-            41.3239405535224
+            -74.4234924316406,
+            41.4151573181152
           ]
         },
         "properties": {
-          "EventID": "ORC300195650",
+          "EventID": "ORC29466509",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.6836776733398,
+            41.3542709350586
+          ]
+        },
+        "properties": {
+          "EventID": "ORC29466409",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -10495,6 +10529,57 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
+            -74.7625154202199,
+            41.0412403742656
+          ]
+        },
+        "properties": {
+          "EventID": "ORC300238894",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.8384876401886,
+            40.2563119074989
+          ]
+        },
+        "properties": {
+          "EventID": "ORC300158634",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.44576765956,
+            40.65475617022
+          ]
+        },
+        "properties": {
+          "EventID": "ORC300238891",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
             -73.251,
             40.8294
           ]
@@ -10529,12 +10614,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -73.8061981201172,
-            41.1081008911133
+            -74.1409953547554,
+            41.3116791211183
           ]
         },
         "properties": {
-          "EventID": "ORC29473909",
+          "EventID": "ORC28530907",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -10546,12 +10631,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -74.8384876401886,
-            40.2563119074989
+            -73.9856810623701,
+            41.5188495280665
           ]
         },
         "properties": {
-          "EventID": "ORC300158634",
+          "EventID": "ORC300238881",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -10603,57 +10688,6 @@
         },
         "properties": {
           "EventID": "ORC29466909",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -75.061744730215,
-            39.5745540502519
-          ]
-        },
-        "properties": {
-          "EventID": "ORC300238908",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -75.1651291833282,
-            39.5975128331161
-          ]
-        },
-        "properties": {
-          "EventID": "ORC300238906",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -74.2838285801746,
-            41.4499065812482
-          ]
-        },
-        "properties": {
-          "EventID": "ORC29454809",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -10733,6 +10767,57 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
+            -72.8986046516051,
+            41.3193396347884
+          ]
+        },
+        "properties": {
+          "EventID": "ORC300209747",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -72.8976231321116,
+            41.3187823868128
+          ]
+        },
+        "properties": {
+          "EventID": "ORC300209746",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.6493064541466,
+            42.1318341834136
+          ]
+        },
+        "properties": {
+          "EventID": "ORC300186955",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
             -73.5537536144257,
             41.8501468069209
           ]
@@ -10784,12 +10869,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -74.7625154202199,
-            41.0412403742656
+            -73.963899060311,
+            40.7163392511533
           ]
         },
         "properties": {
-          "EventID": "ORC300238894",
+          "EventID": "ORC300238492",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -10801,12 +10886,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -74.1409953547554,
-            41.3116791211183
+            -74.6596733733839,
+            39.4570020373221
           ]
         },
         "properties": {
-          "EventID": "ORC28530907",
+          "EventID": "ORC300239418",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -10818,12 +10903,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -73.9856810623701,
-            41.5188495280665
+            -74.0661911991211,
+            40.9590512779458
           ]
         },
         "properties": {
-          "EventID": "ORC300238881",
+          "EventID": "ORC300238943",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -10835,12 +10920,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -74.6628811925964,
-            40.5941451376111
+            -74.8099705633877,
+            39.9820243810831
           ]
         },
         "properties": {
-          "EventID": "ORC300239261",
+          "EventID": "ORC300238948",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -10852,12 +10937,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -73.7794192765243,
-            40.7889334061668
+            -75.1033381876878,
+            39.8837163968978
           ]
         },
         "properties": {
-          "EventID": "ORC300238602",
+          "EventID": "ORC300238949",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -10869,12 +10954,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -77.6827137956199,
-            43.1563760981243
+            -74.9976231743448,
+            39.686581961191
           ]
         },
         "properties": {
-          "EventID": "ORC300239379",
+          "EventID": "ORC300238950",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -10886,12 +10971,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -73.8170788290333,
-            40.7882049100005
+            -74.202357253808,
+            39.825574447544
           ]
         },
         "properties": {
-          "EventID": "ORC300238604",
+          "EventID": "ORC300238953",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -10903,46 +10988,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -73.815459,
-            40.7002985
+            -75.1010833823041,
+            39.8678743272145
           ]
         },
         "properties": {
-          "EventID": "ORC300238606",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.7931125,
-            40.6447235
-          ]
-        },
-        "properties": {
-          "EventID": "ORC300238607",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.7039031982422,
-            41.1241989135742
-          ]
-        },
-        "properties": {
-          "EventID": "ORC29463309",
+          "EventID": "ORC300238952",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -11107,23 +11158,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -74.039226056652,
-            40.7299053773621
-          ]
-        },
-        "properties": {
-          "EventID": "ORC300238714",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             -77.8079848469628,
             42.6594377298594
           ]
@@ -11147,6 +11181,74 @@
         },
         "properties": {
           "EventID": "ORC300238564",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.039226056652,
+            40.7299053773621
+          ]
+        },
+        "properties": {
+          "EventID": "ORC300238714",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.68958568573,
+            41.5198036254433
+          ]
+        },
+        "properties": {
+          "EventID": "ORC28968309",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.9875264894845,
+            39.95609763901
+          ]
+        },
+        "properties": {
+          "EventID": "ORC300238066",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.1831254408546,
+            40.866353459829
+          ]
+        },
+        "properties": {
+          "EventID": "ORC300239246",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -11283,23 +11385,6 @@
         },
         "properties": {
           "EventID": "ORC300238426",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -74.8842041365176,
-            39.7599489439861
-          ]
-        },
-        "properties": {
-          "EventID": "ORC300238428",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -11617,12 +11702,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -73.68958568573,
-            41.5198036254433
+            -75.2012626902628,
+            39.8368269238949
           ]
         },
         "properties": {
-          "EventID": "ORC28968309",
+          "EventID": "ORC300239241",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -11634,29 +11719,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -74.9875264894845,
-            39.95609763901
+            -73.7174336910248,
+            41.0130597258881
           ]
         },
         "properties": {
-          "EventID": "ORC300238066",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -74.1831254408546,
-            40.866353459829
-          ]
-        },
-        "properties": {
-          "EventID": "ORC300239246",
+          "EventID": "ORC29472509",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -11821,12 +11889,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -75.2012626902628,
-            39.8368269238949
+            -74.309757141764,
+            40.5226333998173
           ]
         },
         "properties": {
-          "EventID": "ORC300239241",
+          "EventID": "ORC300237453",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -11838,12 +11906,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -73.7174336910248,
-            41.0130597258881
+            -74.1502005083203,
+            41.1183418474468
           ]
         },
         "properties": {
-          "EventID": "ORC29472509",
+          "EventID": "ORC29441109",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -11957,12 +12025,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -74.309757141764,
-            40.5226333998173
+            -75.4533004760742,
+            43.1995010375977
           ]
         },
         "properties": {
-          "EventID": "ORC300237453",
+          "EventID": "ORC29457709",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -11974,12 +12042,29 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -74.1502005083203,
-            41.1183418474468
+            -74.2017974853515,
+            42.923999786377
           ]
         },
         "properties": {
-          "EventID": "ORC29441109",
+          "EventID": "ORC29190909",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.3809,
+            43.0559
+          ]
+        },
+        "properties": {
+          "EventID": "ORC29180909",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -12048,159 +12133,6 @@
         },
         "properties": {
           "EventID": "ORC29472309",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -77.2329436949524,
-            42.918366966907
-          ]
-        },
-        "properties": {
-          "EventID": "ORC300222516",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.8903198242188,
-            41.5236968994141
-          ]
-        },
-        "properties": {
-          "EventID": "ORC29472409",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -74.1847919236776,
-            40.8681030775056
-          ]
-        },
-        "properties": {
-          "EventID": "ORC300239244",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -75.4533004760742,
-            43.1995010375977
-          ]
-        },
-        "properties": {
-          "EventID": "ORC29457709",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -74.2017974853515,
-            42.923999786377
-          ]
-        },
-        "properties": {
-          "EventID": "ORC29190909",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -74.3809,
-            43.0559
-          ]
-        },
-        "properties": {
-          "EventID": "ORC29180909",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -75.1335268189538,
-            39.8645583756308
-          ]
-        },
-        "properties": {
-          "EventID": "ORC300238227",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -75.1335268189538,
-            39.8645583756308
-          ]
-        },
-        "properties": {
-          "EventID": "ORC300238229",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -74.90308862456,
-            40.0468027735959
-          ]
-        },
-        "properties": {
-          "EventID": "ORC300236956",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -12286,6 +12218,125 @@
         },
         "properties": {
           "EventID": "ORC29471609",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.7193728155567,
+            41.0665735242107
+          ]
+        },
+        "properties": {
+          "EventID": "ORC29242209",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.2870961357566,
+            43.1119032271513
+          ]
+        },
+        "properties": {
+          "EventID": "ORC300236674",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.0669827120675,
+            43.0573545608776
+          ]
+        },
+        "properties": {
+          "EventID": "ORC300236675",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.8252005,
+            39.617171
+          ]
+        },
+        "properties": {
+          "EventID": "ORC300237998",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.8363979196541,
+            39.6077446402965
+          ]
+        },
+        "properties": {
+          "EventID": "ORC300237999",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.7421030231027,
+            41.0296317150716
+          ]
+        },
+        "properties": {
+          "EventID": "ORC300238003",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.7948578958846,
+            41.13107416079
+          ]
+        },
+        "properties": {
+          "EventID": "ORC29453709",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -12603,12 +12654,29 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -77.6755154294283,
-            43.2072914846861
+            -77.6762558092302,
+            43.2066307443641
           ]
         },
         "properties": {
-          "EventID": "ORC300235728",
+          "EventID": "ORC300235727",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.3607521039101,
+            42.2401397999392
+          ]
+        },
+        "properties": {
+          "EventID": "ORC300219857",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -12654,40 +12722,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -77.6762558092302,
-            43.2066307443641
-          ]
-        },
-        "properties": {
-          "EventID": "ORC300235727",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -74.3607521039101,
-            42.2401397999392
-          ]
-        },
-        "properties": {
-          "EventID": "ORC300219857",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             -74.1843763160595,
             41.1824254668837
           ]
@@ -12705,12 +12739,63 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -74.8064713604224,
-            39.9032236356494
+            -77.6087575824778,
+            43.1913988099698
           ]
         },
         "properties": {
-          "EventID": "ORC300238917",
+          "EventID": "ORC300239327",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.061744730215,
+            39.5745540502519
+          ]
+        },
+        "properties": {
+          "EventID": "ORC300238908",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1651291833282,
+            39.5975128331161
+          ]
+        },
+        "properties": {
+          "EventID": "ORC300238906",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.2838285801746,
+            41.4499065812482
+          ]
+        },
+        "properties": {
+          "EventID": "ORC29454809",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -12790,80 +12875,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -77.6087575824778,
-            43.1913988099698
+            -74.8064713604224,
+            39.9032236356494
           ]
         },
         "properties": {
-          "EventID": "ORC300239327",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -72.8986046516051,
-            41.3193396347884
-          ]
-        },
-        "properties": {
-          "EventID": "ORC300209747",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -72.8976231321116,
-            41.3187823868128
-          ]
-        },
-        "properties": {
-          "EventID": "ORC300209746",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -77.6493064541466,
-            42.1318341834136
-          ]
-        },
-        "properties": {
-          "EventID": "ORC300186955",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -74.44576765956,
-            40.65475617022
-          ]
-        },
-        "properties": {
-          "EventID": "ORC300238891",
+          "EventID": "ORC300238917",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -13538,12 +13555,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -73.8378842287695,
-            40.9373385095321
+            -73.9278963824154,
+            41.0318577895576
           ]
         },
         "properties": {
-          "EventID": "ORC300237951",
+          "EventID": "ORC29422309",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -13555,12 +13572,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -74.2514599358264,
-            40.6909548678834
+            -74.9217512373092,
+            39.8557581472016
           ]
         },
         "properties": {
-          "EventID": "ORC300238979",
+          "EventID": "ORC300238939",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -13742,46 +13759,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -74.3181902044994,
-            42.2368684071803
+            -77.6755154294283,
+            43.2072914846861
           ]
         },
         "properties": {
-          "EventID": "ORC300239187",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -75.1047915152652,
-            39.8858037189462
-          ]
-        },
-        "properties": {
-          "EventID": "ORC300238933",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -74.7299327631172,
-            40.0962158762143
-          ]
-        },
-        "properties": {
-          "EventID": "ORC300238935",
+          "EventID": "ORC300235728",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -13827,12 +13810,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -73.9278963824154,
-            41.0318577895576
+            -74.3181902044994,
+            42.2368684071803
           ]
         },
         "properties": {
-          "EventID": "ORC29422309",
+          "EventID": "ORC300239187",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -13844,12 +13827,29 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -74.9217512373092,
-            39.8557581472016
+            -75.1047915152652,
+            39.8858037189462
           ]
         },
         "properties": {
-          "EventID": "ORC300238939",
+          "EventID": "ORC300238933",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.7299327631172,
+            40.0962158762143
+          ]
+        },
+        "properties": {
+          "EventID": "ORC300238935",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -14065,12 +14065,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -77.5506456861132,
-            43.113340528384
+            -73.8378842287695,
+            40.9373385095321
           ]
         },
         "properties": {
-          "EventID": "ORC300234344",
+          "EventID": "ORC300237951",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -14082,12 +14082,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -73.9928434618395,
-            40.8400864497968
+            -74.2514599358264,
+            40.6909548678834
           ]
         },
         "properties": {
-          "EventID": "ORC300234829",
+          "EventID": "ORC300238979",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -14099,12 +14099,46 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -74.476303100586,
-            43.0512008666992
+            -77.2329436949524,
+            42.918366966907
           ]
         },
         "properties": {
-          "EventID": "ORC29417509",
+          "EventID": "ORC300222516",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.8903198242188,
+            41.5236968994141
+          ]
+        },
+        "properties": {
+          "EventID": "ORC29472409",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.1847919236776,
+            40.8681030775056
+          ]
+        },
+        "properties": {
+          "EventID": "ORC300239244",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -14269,12 +14303,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -73.7193728155567,
-            41.0665735242107
+            -77.5506456861132,
+            43.113340528384
           ]
         },
         "properties": {
-          "EventID": "ORC29242209",
+          "EventID": "ORC300234344",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -14286,12 +14320,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -76.2870961357566,
-            43.1119032271513
+            -73.9928434618395,
+            40.8400864497968
           ]
         },
         "properties": {
-          "EventID": "ORC300236674",
+          "EventID": "ORC300234829",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -14303,12 +14337,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -76.0669827120675,
-            43.0573545608776
+            -74.476303100586,
+            43.0512008666992
           ]
         },
         "properties": {
-          "EventID": "ORC300236675",
+          "EventID": "ORC29417509",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -14320,12 +14354,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -74.8252005,
-            39.617171
+            -75.1335268189538,
+            39.8645583756308
           ]
         },
         "properties": {
-          "EventID": "ORC300237998",
+          "EventID": "ORC300238227",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -14337,12 +14371,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -74.8363979196541,
-            39.6077446402965
+            -75.1335268189538,
+            39.8645583756308
           ]
         },
         "properties": {
-          "EventID": "ORC300237999",
+          "EventID": "ORC300238229",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -14354,12 +14388,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -73.7421030231027,
-            41.0296317150716
+            -74.90308862456,
+            40.0468027735959
           ]
         },
         "properties": {
-          "EventID": "ORC300238003",
+          "EventID": "ORC300236956",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -14371,12 +14405,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -73.7948578958846,
-            41.13107416079
+            -74.6628811925964,
+            40.5941451376111
           ]
         },
         "properties": {
-          "EventID": "ORC29453709",
+          "EventID": "ORC300239261",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -14388,12 +14422,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -73.963899060311,
-            40.7163392511533
+            -73.7794192765243,
+            40.7889334061668
           ]
         },
         "properties": {
-          "EventID": "ORC300238492",
+          "EventID": "ORC300238602",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -14405,12 +14439,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -73.9527818842326,
-            40.7120727437778
+            -77.6827137956199,
+            43.1563760981243
           ]
         },
         "properties": {
-          "EventID": "ORC300238491",
+          "EventID": "ORC300239379",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -14422,12 +14456,63 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -75.12178673,
-            40.97102752
+            -73.8170788290333,
+            40.7882049100005
           ]
         },
         "properties": {
-          "EventID": "ORC300239386",
+          "EventID": "ORC300238604",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.815459,
+            40.7002985
+          ]
+        },
+        "properties": {
+          "EventID": "ORC300238606",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.7931125,
+            40.6447235
+          ]
+        },
+        "properties": {
+          "EventID": "ORC300238607",
+          "CategoryName": "ScheduledConstruction",
+          "IconFile": "sch-construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.7039031982422,
+            41.1241989135742
+          ]
+        },
+        "properties": {
+          "EventID": "ORC29463309",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -14473,12 +14558,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -74.6596733733839,
-            39.4570020373221
+            -73.9527818842326,
+            40.7120727437778
           ]
         },
         "properties": {
-          "EventID": "ORC300239418",
+          "EventID": "ORC300238491",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -14490,97 +14575,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -74.0661911991211,
-            40.9590512779458
+            -75.12178673,
+            40.97102752
           ]
         },
         "properties": {
-          "EventID": "ORC300238943",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -74.8099705633877,
-            39.9820243810831
-          ]
-        },
-        "properties": {
-          "EventID": "ORC300238948",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -75.1033381876878,
-            39.8837163968978
-          ]
-        },
-        "properties": {
-          "EventID": "ORC300238949",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -74.9976231743448,
-            39.686581961191
-          ]
-        },
-        "properties": {
-          "EventID": "ORC300238950",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -74.202357253808,
-            39.825574447544
-          ]
-        },
-        "properties": {
-          "EventID": "ORC300238953",
-          "CategoryName": "ScheduledConstruction",
-          "IconFile": "sch-construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -75.1010833823041,
-            39.8678743272145
-          ]
-        },
-        "properties": {
-          "EventID": "ORC300238952",
+          "EventID": "ORC300239386",
           "CategoryName": "ScheduledConstruction",
           "IconFile": "sch-construction.svg",
           "isHighway": 1,
@@ -16989,23 +16989,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -74.0682571413847,
-            40.6035604786269
-          ]
-        },
-        "properties": {
-          "EventID": "ORI1236496066",
-          "CategoryName": "Construction",
-          "IconFile": "construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             -73.755883,
             42.504247
           ]
@@ -17023,12 +17006,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -77.3617282211106,
-            42.3780647313069
+            -74.0682571413847,
+            40.6035604786269
           ]
         },
         "properties": {
-          "EventID": "ORI1236581356",
+          "EventID": "ORI1236496066",
           "CategoryName": "Construction",
           "IconFile": "construction.svg",
           "isHighway": 1,
@@ -17046,6 +17029,23 @@
         },
         "properties": {
           "EventID": "ORI1236430249",
+          "CategoryName": "Construction",
+          "IconFile": "construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.3617282211106,
+            42.3780647313069
+          ]
+        },
+        "properties": {
+          "EventID": "ORI1236581356",
           "CategoryName": "Construction",
           "IconFile": "construction.svg",
           "isHighway": 1,
@@ -17108,23 +17108,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -77.6493064541466,
-            42.1318341834136
-          ]
-        },
-        "properties": {
-          "EventID": "ORI1236447323",
-          "CategoryName": "Construction",
-          "IconFile": "construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             -75.9054617404389,
             42.1201985602122
           ]
@@ -17165,6 +17148,40 @@
         },
         "properties": {
           "EventID": "ORI100434407",
+          "CategoryName": "Construction",
+          "IconFile": "construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.6493064541466,
+            42.1318341834136
+          ]
+        },
+        "properties": {
+          "EventID": "ORI1236447323",
+          "CategoryName": "Construction",
+          "IconFile": "construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.9474776495387,
+            42.091960392853
+          ]
+        },
+        "properties": {
+          "EventID": "ORI1236409514",
           "CategoryName": "Construction",
           "IconFile": "construction.svg",
           "isHighway": 1,
@@ -17244,23 +17261,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -75.9474776495387,
-            42.091960392853
-          ]
-        },
-        "properties": {
-          "EventID": "ORI1236409514",
-          "CategoryName": "Construction",
-          "IconFile": "construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             -74.0471516464293,
             40.7903342547849
           ]
@@ -17278,80 +17278,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -74.9911651636998,
-            39.895947881088
-          ]
-        },
-        "properties": {
-          "EventID": "ORI1236501541",
-          "CategoryName": "Construction",
-          "IconFile": "construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -74.4885,
-            40.31826
-          ]
-        },
-        "properties": {
-          "EventID": "ORI1236626982",
-          "CategoryName": "Construction",
-          "IconFile": "construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.8174025780609,
-            41.0769302761193
-          ]
-        },
-        "properties": {
-          "EventID": "ORI241456609",
-          "CategoryName": "Construction",
-          "IconFile": "construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             -75.8653365029628,
             42.1098958278028
           ]
         },
         "properties": {
           "EventID": "ORI1236719028",
-          "CategoryName": "Construction",
-          "IconFile": "construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -74.2854,
-            42.9569
-          ]
-        },
-        "properties": {
-          "EventID": "ORI241411209",
           "CategoryName": "Construction",
           "IconFile": "construction.svg",
           "isHighway": 1,
@@ -17431,12 +17363,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -73.5625274138675,
-            42.9038681037906
+            -73.7855847203827,
+            41.1470442778878
           ]
         },
         "properties": {
-          "EventID": "ORI1236713810",
+          "EventID": "ORI241379709",
           "CategoryName": "Construction",
           "IconFile": "construction.svg",
           "isHighway": 1,
@@ -17448,12 +17380,29 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -77.75920977739226,
-            43.08810720463538
+            -73.8174025780609,
+            41.0769302761193
           ]
         },
         "properties": {
-          "EventID": "ORI1236716191",
+          "EventID": "ORI241456609",
+          "CategoryName": "Construction",
+          "IconFile": "construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.5625274138675,
+            42.9038681037906
+          ]
+        },
+        "properties": {
+          "EventID": "ORI1236713810",
           "CategoryName": "Construction",
           "IconFile": "construction.svg",
           "isHighway": 1,
@@ -17482,12 +17431,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -73.8264010834163,
-            40.7161795747561
+            -77.75920977739226,
+            43.08810720463538
           ]
         },
         "properties": {
-          "EventID": "ORI1236719423",
+          "EventID": "ORI1236716191",
           "CategoryName": "Construction",
           "IconFile": "construction.svg",
           "isHighway": 1,
@@ -17499,29 +17448,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -73.7855847203827,
-            41.1470442778878
+            -74.2854,
+            42.9569
           ]
         },
         "properties": {
-          "EventID": "ORI241379709",
-          "CategoryName": "Construction",
-          "IconFile": "construction.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -74.5598180522857,
-            40.5751571229258
-          ]
-        },
-        "properties": {
-          "EventID": "ORI1236700869",
+          "EventID": "ORI241411209",
           "CategoryName": "Construction",
           "IconFile": "construction.svg",
           "isHighway": 1,
@@ -17539,6 +17471,23 @@
         },
         "properties": {
           "EventID": "ORI241443309",
+          "CategoryName": "Construction",
+          "IconFile": "construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.5598180522857,
+            40.5751571229258
+          ]
+        },
+        "properties": {
+          "EventID": "ORI1236700869",
           "CategoryName": "Construction",
           "IconFile": "construction.svg",
           "isHighway": 1,
@@ -17584,12 +17533,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -74.040720633778,
-            41.4272258933677
+            -74.8242307793337,
+            41.9085488678124
           ]
         },
         "properties": {
-          "EventID": "ORI239854409",
+          "EventID": "ORI1236593990",
           "CategoryName": "Construction",
           "IconFile": "construction.svg",
           "isHighway": 1,
@@ -17618,12 +17567,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -74.8242307793337,
-            41.9085488678124
+            -74.206375,
+            40.426656
           ]
         },
         "properties": {
-          "EventID": "ORI1236593990",
+          "EventID": "ORI1236662751",
           "CategoryName": "Construction",
           "IconFile": "construction.svg",
           "isHighway": 1,
@@ -17635,12 +17584,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -74.206375,
-            40.426656
+            -74.040720633778,
+            41.4272258933677
           ]
         },
         "properties": {
-          "EventID": "ORI1236662751",
+          "EventID": "ORI239854409",
           "CategoryName": "Construction",
           "IconFile": "construction.svg",
           "isHighway": 1,
@@ -17754,6 +17703,40 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
+            -74.4885,
+            40.31826
+          ]
+        },
+        "properties": {
+          "EventID": "ORI1236626982",
+          "CategoryName": "Construction",
+          "IconFile": "construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.9911651636998,
+            39.895947881088
+          ]
+        },
+        "properties": {
+          "EventID": "ORI1236501541",
+          "CategoryName": "Construction",
+          "IconFile": "construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
             -73.7955221283151,
             41.1353809328125
           ]
@@ -17856,6 +17839,23 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
+            -73.8264010834163,
+            40.7161795747561
+          ]
+        },
+        "properties": {
+          "EventID": "ORI1236719423",
+          "CategoryName": "Construction",
+          "IconFile": "construction.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
             -73.8089973033033,
             40.6888889249944
           ]
@@ -17890,12 +17890,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -73.922733,
-            41.081634
+            -77.5362216376385,
+            43.137914295449
           ]
         },
         "properties": {
-          "EventID": "ORI1236721314",
+          "EventID": "ORI1236721330",
           "CategoryName": "Incident",
           "IconFile": "incident.svg",
           "isHighway": 1,
@@ -17907,12 +17907,63 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -74.390122893564,
-            40.8608799046078
+            -72.665962,
+            41.825769
           ]
         },
         "properties": {
-          "EventID": "ORI1236721309",
+          "EventID": "ORI1236721331",
+          "CategoryName": "Incident",
+          "IconFile": "incident.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.934675,
+            42.754652
+          ]
+        },
+        "properties": {
+          "EventID": "ORI1236721332",
+          "CategoryName": "Incident",
+          "IconFile": "incident.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.4271011352539,
+            42.3574981689453
+          ]
+        },
+        "properties": {
+          "EventID": "ORI241634809",
+          "CategoryName": "Incident",
+          "IconFile": "incident.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.922733,
+            41.081634
+          ]
+        },
+        "properties": {
+          "EventID": "ORI1236721314",
           "CategoryName": "Incident",
           "IconFile": "incident.svg",
           "isHighway": 1,
@@ -17941,23 +17992,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -73.8518,
-            40.9121
-          ]
-        },
-        "properties": {
-          "EventID": "ORI241634709",
-          "CategoryName": "Incident",
-          "IconFile": "incident.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             -72.754812,
             41.730621
           ]
@@ -17975,12 +18009,80 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -74.2874898119747,
-            40.6472638426484
+            -74.3347100111476,
+            40.5427879921967
           ]
         },
         "properties": {
-          "EventID": "ORI1236721292",
+          "EventID": "ORI1236721322",
+          "CategoryName": "Incident",
+          "IconFile": "incident.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.8087997436523,
+            41.1237983703613
+          ]
+        },
+        "properties": {
+          "EventID": "ORI241634609",
+          "CategoryName": "Incident",
+          "IconFile": "incident.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.390122893564,
+            40.8608799046078
+          ]
+        },
+        "properties": {
+          "EventID": "ORI1236721309",
+          "CategoryName": "Incident",
+          "IconFile": "incident.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.8062630028471,
+            39.099353944987
+          ]
+        },
+        "properties": {
+          "EventID": "ORI1236721296",
+          "CategoryName": "Incident",
+          "IconFile": "incident.svg",
+          "isHighway": 1,
+          "IsLatestEvent": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.5452227625435,
+            43.1426975419959
+          ]
+        },
+        "properties": {
+          "EventID": "ORI1236721305",
           "CategoryName": "Incident",
           "IconFile": "incident.svg",
           "isHighway": 1,
@@ -18026,12 +18128,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -77.5452227625435,
-            43.1426975419959
+            -74.2874898119747,
+            40.6472638426484
           ]
         },
         "properties": {
-          "EventID": "ORI1236721305",
+          "EventID": "ORI1236721292",
           "CategoryName": "Incident",
           "IconFile": "incident.svg",
           "isHighway": 1,
@@ -18043,29 +18145,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -73.8087997436523,
-            41.1237983703613
+            -73.8386993408203,
+            40.9847984313965
           ]
         },
         "properties": {
-          "EventID": "ORI241634609",
-          "CategoryName": "Incident",
-          "IconFile": "incident.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -74.8062630028471,
-            39.099353944987
-          ]
-        },
-        "properties": {
-          "EventID": "ORI1236721296",
+          "EventID": "ORI241634909",
           "CategoryName": "Incident",
           "IconFile": "incident.svg",
           "isHighway": 1,
@@ -18083,23 +18168,6 @@
         },
         "properties": {
           "EventID": "ORI1236721281",
-          "CategoryName": "Incident",
-          "IconFile": "incident.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 0
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.994683586107,
-            40.7044583664449
-          ]
-        },
-        "properties": {
-          "EventID": "ORI1236721271",
           "CategoryName": "Incident",
           "IconFile": "incident.svg",
           "isHighway": 1,
@@ -18281,63 +18349,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -74.2449608004269,
-            40.7085659978654
+            -74.9298562863565,
+            39.9505337218365
           ]
         },
         "properties": {
-          "EventID": "ORI1236721249",
-          "CategoryName": "Congestion",
-          "IconFile": "congestion.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 1
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.66751,
-            41.078913
-          ]
-        },
-        "properties": {
-          "EventID": "ORI1236721323",
-          "CategoryName": "Congestion",
-          "IconFile": "congestion.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 1
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -74.1709615150182,
-            40.6777992642596
-          ]
-        },
-        "properties": {
-          "EventID": "ORI1236721321",
-          "CategoryName": "Congestion",
-          "IconFile": "congestion.svg",
-          "isHighway": 1,
-          "IsLatestEvent": 1
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -74.3347100111476,
-            40.5427879921967
-          ]
-        },
-        "properties": {
-          "EventID": "ORI1236721322",
+          "EventID": "ORI1236721333",
           "CategoryName": "Incident",
           "IconFile": "incident.svg",
           "isHighway": 1,
